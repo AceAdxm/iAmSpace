@@ -1,5 +1,113 @@
-<!-- YOU'RE GAY IF U READING THIS --><!-- YOU'RE GAY IF U READING THIS --><!-- YOU'RE GAY IF U READING THIS -->
-
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
 <!-- ![CB - Take That Risk (Image from the Official Music Video)](https://cdn.discordapp.com/attachments/942158042965889064/949453590269947964/ReUpload_Media_-_7th_CB_-_Take_That_Risk_Official_Music_Video_PRESSREUPLOADMEDIA_7ZiitCIruBc_-_1890x1063_-_2m00s.png)-->
 
 <a href="https://www.youtube.com/watch?v=7ZiitCIruBc"><img src="https://cdn.discordapp.com/attachments/942158042965889064/949453590269947964/ReUpload_Media_-_7th_CB_-_Take_That_Risk_Official_Music_Video_PRESSREUPLOADMEDIA_7ZiitCIruBc_-_1890x1063_-_2m00s.png" alt="CB - Take That Risk (Image from the Official Music Video)"></a>
