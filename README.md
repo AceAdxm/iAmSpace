@@ -13,7 +13,7 @@
 
 ## Hello! I'm Kay or iAmSpace 👋
 
-<!-- <p align="center">
+<!-- FUCK THAT<p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/201022516506918912.png"/>
 </p> -->
 
@@ -21,8 +21,18 @@ Any pronouns, I do not care.
 
 This account hosts most of my hobby repos, also other stuff that's quite interesting. See [iAmSpace/ForgeGradle](https://github.com/iAmSpace/ForgeGradle) for funny Forge 1.8.9 but in 2077.
 
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
 
-<!-- I'm testing shit LEAVE ME THE FUCK ALONE! -->
+## Socials
+
+[![YouTube Gaming Logo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtubegaming&logoColor=white)](https://www.youtube.com/c/TelecodeXT)
+[![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iAmSpacee)
+[![Twitter Logo](https://img.shields.io/badge/Twitter_Alt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LixGotWiFi)
+[![Minecraft Logo](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/Telecode.5)
 
 ## IDEs
 
@@ -37,3 +47,9 @@ This account hosts most of my hobby repos, also other stuff that's quite interes
 ![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+<!-- !!! READ THIS !!! -->
+<!-- I know aki is trying to copy this -->
+<!-- Get some fucking help stop trying to be me-->
+<!-- And no, that is not a joke -->
+<!-- Stop trying to be me. -->
