@@ -18,7 +18,7 @@
 </p> -->
 
 Any pronouns, I don't mind, most used he/him.
-I'm just some Aroaceflux that somehow got the right to use internet. Although, that is quite an understatement (if that's a word) because my internet generates a Microsoft PowerPoint presentation for anyone playing a game with me lmao.
+I'm just some Aroaceflux that somehow got the right to use internet. Although, that is quite an understatement (if that's a Word 😏) because my internet generates a Microsoft PowerPoint presentation for anyone playing a game with me lmao.
 
 This account hosts most of my hobby repos, also other stuff that's quite interesting. See [iAmSpace/ForgeGradle](https://github.com/iAmSpace/ForgeGradle) for funny Forge 1.8.9 but in 2077.
 
