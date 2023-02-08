@@ -13,16 +13,17 @@
 
 ## Hello! I'm Kay or iAmSpace 👋
 
-<!-- FUCK THAT<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/201022516506918912.png"/>
-</p> -->
+Making moves in the GTA modding scene again. woo. Ex-Java crackhead, currently a nativeui fanetic. Also I do personally believe TxL is a Mohammed Lookin' Ahh
 
-Any pronouns, I don't mind, most used he/him.
-I'm just some Aroaceflux that somehow got the right to use internet. Although, that is quite an understatement (if that's a Word 😏) because my internet generates a Microsoft PowerPoint presentation for anyone playing a game with me lmao.
+Sublime Text on top
 
-This account hosts most of my hobby repos, also other stuff that's quite interesting. See [iAmSpace/ForgeGradle](https://github.com/iAmSpace/ForgeGradle) for funny Forge 1.8.9 but in 2077.
+## Discord ([Zero Mods](https://discord.gg/BvgcYhVQWG))
 
-## Socials
+<p align="center">
+  <a href="https://discord.com/users/201022516506918912/"><img src="https://discord.c99.nl/widget/theme-4/201022516506918912.png"/></a>
+</p>
+
+## Socials (click)
 
 [![YouTube Gaming Logo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtubegaming&logoColor=white)](https://www.youtube.com/c/TelecodeXT)
 [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iAmSpacee)
