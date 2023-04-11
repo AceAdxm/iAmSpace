@@ -17,7 +17,7 @@ Making moves in the GTA modding scene again. woo. Ex-Java crackhead, currently a
 
 Sublime Text on top
 
-## Discord ([Zero Mods](https://discord.gg/BvgcYhVQWG))
+## Discord ([Zero Mods](https://discord.gg/dPzJajt))
 
 <p align="center">
   <a href="https://discord.com/users/201022516506918912/"><img src="https://discord.c99.nl/widget/theme-4/201022516506918912.png"/></a>
