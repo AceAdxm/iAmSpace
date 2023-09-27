@@ -30,6 +30,9 @@
   <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/RubyMine_icon.svg"> [RubyMine](https://www.jetbrains.com/ruby/download/)\
   <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg"> [WebStorm](https://www.jetbrains.com/webstorm/download/)
 
+## Internet
+  <img width="15px" src="https://a.fsdn.com/allura/p/qbittorrent/icon?1518743661?&w=90"> [qBittorrent](https://www.fosshub.com/qBittorrent.html)
+
 ## Microsoft
   <img width="15px" src="https://massgrave.dev/logo.png"> [Microsoft Activation Scripts](https://massgrave.dev/#MAS_Latest_Release)\
   <img width="15px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png"> [Visual Studio](https://visualstudio.microsoft.com/)\
