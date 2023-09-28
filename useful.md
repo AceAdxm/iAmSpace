@@ -2,16 +2,16 @@
   Useful hyperlinks for fast installation every time I reset my PC. If you are not me, **why are you here**?
 
 ## Java
-  <img width="15px" src="https://www.azul.com/wp-content/uploads/Prime-Illustration-10.svg"> [Azul Zulu Java Downloads - JDK FX/x64](https://www.azul.com/downloads/?architecture=x86-64-bit&package=jdk-fx#zulu)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/bellsoft.svg"> [BellSoft Java Downloads - All](https://bell-sw.com/pages/downloads/)
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/azul_zulu.svg"> [Azul Zulu Java Downloads - JDK FX/x64](https://www.azul.com/downloads/?architecture=x86-64-bit&package=jdk-fx#zulu)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/bellsoft.svg"> [BellSoft Java Downloads - All](https://bell-sw.com/pages/downloads/)
 
 ## Discord
-  <img width="15px" src="https://betterdiscord.app/resources/branding/logo_small.svg"> [Better Discord](https://betterdiscord.app/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/better_discord.svg"> [Better Discord](https://betterdiscord.app/)\
   <img width="15px" src="https://avatars.githubusercontent.com/u/145507016?s=200&v=4"> [Jiscord](https://github.com/jiscord)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/discord_app.svg"> [Official Stable](https://discordapp.com/api/download/stable?platform=win)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/discord_canary.svg"> [Official Canary](https://discordapp.com/api/download/canary?platform=win)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/discord_app.svg"> [Official PTB](https://discordapp.com/api/download/ptb?platform=win)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/discord_development.svg"> [Official Development](https://discordapp.com/api/download/development?platform=win)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/discord_app.svg"> [Official Stable](https://discordapp.com/api/download/stable?platform=win)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/discord_canary.svg"> [Official Canary](https://discordapp.com/api/download/canary?platform=win)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/discord_app.svg"> [Official PTB](https://discordapp.com/api/download/ptb?platform=win)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/discord_development.svg"> [Official Development](https://discordapp.com/api/download/development?platform=win)\
   <img width="15px" src="https://vencord.dev/assets/favicon.png"> [Vencord](https://vencord.dev)\
   <img width="15px" src="https://avatars.githubusercontent.com/u/112445065?s=200&v=4"> [Vendetta](https://github.com/vendetta-mod)
 
