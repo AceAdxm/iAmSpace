@@ -17,18 +17,18 @@
 
 ## JetBrains
   <img width="15px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [Brainser](https://github.com/p1ratrulezzz/brainser)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Aqua_icon.svg"> [Aqua](https://www.jetbrains.com/aqua/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg"> [CLion](https://www.jetbrains.com/clion/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg"> [DataGrip](https://www.jetbrains.com/datagrip/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataSpell_icon.svg"> [DataSpell](https://www.jetbrains.com/dataspell/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Fleet_icon.svg"> [Fleet](https://www.jetbrains.com/fleet/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg"> [GoLand](https://www.jetbrains.com/go/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"> [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg"> [PhpStorm](https://www.jetbrains.com/phpstorm/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg"> [PyCharm](https://www.jetbrains.com/pycharm/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg"> [Rider](https://www.jetbrains.com/rider/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/RubyMine_icon.svg"> [RubyMine](https://www.jetbrains.com/ruby/download/)\
-  <img width="15px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg"> [WebStorm](https://www.jetbrains.com/webstorm/download/)
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/aqua.svg"> [Aqua](https://www.jetbrains.com/aqua/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/clion.svg"> [CLion](https://www.jetbrains.com/clion/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/datagrip.svg"> [DataGrip](https://www.jetbrains.com/datagrip/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/dataspell.svg"> [DataSpell](https://www.jetbrains.com/dataspell/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/fleet.svg"> [Fleet](https://www.jetbrains.com/fleet/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/goland.svg"> [GoLand](https://www.jetbrains.com/go/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/idea.svg"> [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/phpstorm.svg"> [PhpStorm](https://www.jetbrains.com/phpstorm/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/pycharm.svg"> [PyCharm](https://www.jetbrains.com/pycharm/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/rider.svg"> [Rider](https://www.jetbrains.com/rider/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/rubymine.svg"> [RubyMine](https://www.jetbrains.com/ruby/download/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/webstorm.svg"> [WebStorm](https://www.jetbrains.com/webstorm/download/)
 
 ## Internet
   <img width="15px" src="https://a.fsdn.com/allura/p/qbittorrent/icon?1518743661?&w=90"> [qBittorrent](https://www.fosshub.com/qBittorrent.html)
