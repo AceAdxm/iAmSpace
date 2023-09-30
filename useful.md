@@ -3,7 +3,8 @@
 
 ## Java
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/azul_zulu.svg"> [Azul Zulu Java Downloads - JDK FX/x64](https://www.azul.com/downloads/?architecture=x86-64-bit&package=jdk-fx#zulu)\
-  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/bellsoft.svg"> [BellSoft Java Downloads - All](https://bell-sw.com/pages/downloads/)
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/bellsoft.svg"> [BellSoft Java Downloads - All](https://bell-sw.com/pages/downloads/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/optifine.png"> [OptiFine](https://iamspace.github.io/OptiFine)
 
 ## Discord
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/better_discord.svg"> [Better Discord](https://betterdiscord.app/)\
