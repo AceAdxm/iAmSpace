@@ -17,7 +17,7 @@
   <img width="15px" src="https://avatars.githubusercontent.com/u/112445065?s=200&v=4"> [Vendetta](https://github.com/vendetta-mod)
 
 ## JetBrains
-  <img width="15px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> [Brainser](https://github.com/p1ratrulezzz/brainser)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/gh.png"> [Brainser](https://github.com/p1ratrulezzz/brainser)\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/aqua.svg"> [Aqua](https://www.jetbrains.com/aqua/download/)\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/clion.svg"> [CLion](https://www.jetbrains.com/clion/download/)\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/datagrip.svg"> [DataGrip](https://www.jetbrains.com/datagrip/download/)\
@@ -35,7 +35,18 @@
   <img width="15px" src="https://a.fsdn.com/allura/p/qbittorrent/icon?1518743661?&w=90"> [qBittorrent](https://www.fosshub.com/qBittorrent.html)
 
 ## Microsoft
-  <img width="15px" src="https://massgrave.dev/logo.png"> [Microsoft Activation Scripts](https://massgrave.dev/#MAS_Latest_Release)\
-  <img width="15px" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png"> [Visual Studio](https://visualstudio.microsoft.com/)\
-  <img width="15px" src="https://code.visualstudio.com/assets/images/code-stable.png"> [Visual Studio Code](https://code.visualstudio.com/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/mas.png"> [Microsoft Activation Scripts](https://massgrave.dev/#MAS_Latest_Release)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/vs.png"> [Visual Studio](https://visualstudio.microsoft.com/)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/vsc.png"> [Visual Studio Code](https://code.visualstudio.com/)\
   <img width="15px" src="https://vscodium.com/img/codium_cnl.svg"> [VSCodium](https://vscodium.com/)
+
+## Gaming
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft for Windows](https://www.microsoft.com/en-gb/p/minecraft-for-windows/9nblggh2jhxj) ([Open in Store](https://intradeus.github.io/http-protocol-redirector?r=ms-windows-store://pdp/?ProductId=9NBLGGH2JHXJ))\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Windows 10/11)](https://aka.ms/minecraftClientGameCoreWindows) ([Open in Store](https://intradeus.github.io/http-protocol-redirector?r=ms-windows-store://pdp/?ProductId=9PGW18NPBZV5))\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Windows Legacy)](https://aka.ms/minecraftClientWindows)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (macOS)](https://aka.ms/minecraftClientMac)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Debian)](https://launcher.mojang.com/download/Minecraft.deb)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Arch)](https://aur.archlinux.org/packages/minecraft-launcher)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Other Linux Distributions)](https://launcher.mojang.com/download/Minecraft.tar.gz)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Java Edition Server](https://www.minecraft.net/en-us/download/server)\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Bedrock Edition Server](https://www.minecraft.net/en-us/download/server/bedrock)
