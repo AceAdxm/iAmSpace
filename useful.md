@@ -42,6 +42,7 @@
 
 ## Gaming
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft for Windows](https://www.microsoft.com/en-gb/p/minecraft-for-windows/9nblggh2jhxj) ([Open in Store](https://intradeus.github.io/http-protocol-redirector?r=ms-windows-store://pdp/?ProductId=9NBLGGH2JHXJ))\
+  <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft for Windows (Preview)](https://www.microsoft.com/en-gb/p/minecraft-preview-for-windows/9p5x4qvlc2xr) ([Open in Store](https://intradeus.github.io/http-protocol-redirector?r=ms-windows-store://pdp/?ProductId=9P5X4QVLC2XR))\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Windows 10/11)](https://aka.ms/minecraftClientGameCoreWindows) ([Open in Store](https://intradeus.github.io/http-protocol-redirector?r=ms-windows-store://pdp/?ProductId=9PGW18NPBZV5))\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (Windows Legacy)](https://aka.ms/minecraftClientWindows)\
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/png/minecraft.png"> [Minecraft Launcher (macOS)](https://aka.ms/minecraftClientMac)\
