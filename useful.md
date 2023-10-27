@@ -1,5 +1,5 @@
 # Useful links
-  Useful hyperlinks for fast installation every time I reset my PC. If you are not me, **why are you here**?
+  Useful hyperlinks for fast installation every time I reset my PC.
 
 ## Java
   <img width="15px" src="https://cdn.jsdelivr.net/gh/iAmSpace/iAmSpace/assets/svg/azul_zulu.svg"> [Azul Zulu Java Downloads - JDK FX/x64](https://www.azul.com/downloads/?architecture=x86-64-bit&package=jdk-fx#zulu)\
