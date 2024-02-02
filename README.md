@@ -10,12 +10,13 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamspace&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamspace&theme=midnight-purple&hide_border=true">
+<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 
 ## Hello! I'm Kay or iAmSpace 👋
 
 Java crackhead - view [here](https://github.com/CheatBreakerX). Probably had some involvement in the free mod menu you are using right now for GTA V. Also I do personally believe TxL is a Mohammed Lookin' Ahh
 
-Sublime Text on top
+[useful.md](https://github.com/iAmSpace/iAmSpace/blob/main/useful.md)
 
 ## Discord ([Zero Mods](https://discord.gg/dPzJajt))
 
@@ -40,7 +41,7 @@ Sublime Text on top
 
 ## OSs
 
-![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
