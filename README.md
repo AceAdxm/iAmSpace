@@ -27,8 +27,8 @@ Java crackhead - view [here](https://github.com/CheatBreakerX). Probably had som
 ## Socials (click)
 
 [![YouTube Gaming Logo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtubegaming&logoColor=white)](https://www.youtube.com/c/TelecodeXT)
-[![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CheatBreakerX)
-[![Twitter Logo](https://img.shields.io/badge/Twitter_Alt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LixGotWiFi)
+[![Twitter Logo](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CheatBreakerX)
+[![Twitter Logo](https://img.shields.io/badge/Twitter_Alt-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/LixGotWiFi)
 [![Minecraft Logo](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/2x2p.1)
 
 ## IDEs
