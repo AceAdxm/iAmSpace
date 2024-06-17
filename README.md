@@ -1,47 +1,50 @@
-<!-- ![CB - Take That Risk (Image from the Official Music Video)](https://cdn.discordapp.com/attachments/942158042965889064/949453590269947964/ReUpload_Media_-_7th_CB_-_Take_That_Risk_Official_Music_Video_PRESSREUPLOADMEDIA_7ZiitCIruBc_-_1890x1063_-_2m00s.png)-->
-
-<!-- <a href="https://www.youtube.com/watch?v=7ZiitCIruBc"><img src="https://cdn.discordapp.com/attachments/942158042965889064/949453590269947964/ReUpload_Media_-_7th_CB_-_Take_That_Risk_Official_Music_Video_PRESSREUPLOADMEDIA_7ZiitCIruBc_-_1890x1063_-_2m00s.png" alt="CB - Take That Risk (Image from the Official Music Video)"></a>-->
-
-<a href="https://www.youtube.com/watch?v=7ZiitCIruBc"><img width="100%" src="https://github.com/iAmSpace/iAmSpace/blob/main/I_AM_JAVA.png" alt="funny"></a>
-
-<img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=iamspace&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
-<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamspace&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10">
-<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamspace&theme=midnight-purple&hide_border=true">
-<img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-
-## Hello! I'm Kay or iAmSpace 👋
-
-Java crackhead - view [here](https://github.com/CheatBreakerX). Probably had some involvement in the free mod menu you are using right now for GTA V. Also I do personally believe TxL is a Mohammed Lookin' Ahh
-
-[useful.md](https://github.com/iAmSpace/iAmSpace/blob/main/useful.md)
-
-## Discord ([Zero Mods](https://discord.gg/dPzJajt))
-
+<!-- markdownlint-disable-file MD001 MD033 -->
+<h1 align="center">👋 Hi!</h1>
 <p align="center">
-  <a href="https://discord.com/users/180430713873498113/"><img src="https://discord.c99.nl/widget/theme-4/180430713873498113.png"/></a>
+	I'm Lifix, better known for my works in <a href="https://github.com/CheatBreakerX">porting CheatBreaker to modern versions</a> and maintaining <a href="https://zeromods.xyz/">Zero Mods</a>.<br/>
+	<em>Quick links: <a href="https://github.com/iAmSpace/iAmSpace/blob/main/useful.md">useful.md</a></em>
 </p>
+<a href="https://github.com/CheatBreakerX/Client">
+	<img width="100%" src="https://github.com/iAmSpace/iAmSpace/blob/main/I_AM_JAVA.png" alt="funny">
+</a>
 
-## Socials (click)
-
-[![YouTube Gaming Logo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtubegaming&logoColor=white)](https://www.youtube.com/c/TelecodeXT)
-[![Twitter Logo](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CheatBreakerX)
-[![Twitter Logo](https://img.shields.io/badge/Twitter_Alt-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/LixGotWiFi)
-[![Minecraft Logo](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/2x2p.1)
-
-## IDEs
-
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime%20text&logoColor=white)
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-## OSs
-
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+<div align="center" style="margin-block: 1.5em">
+	<h2>Languages</h2>
+	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+		<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="https://skillicons.dev/icons?i=lua&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://skillicons.dev/icons?i=regex&theme=dark" /></a>
+	</div>
+	<h2>Tools</h2>
+	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+		<a href="https://www.git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+		<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+		<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" /></a>
+		<a href="https://www.jetbrains.com/rider/"><img src="https://skillicons.dev/icons?i=rider&theme=dark" /></a>
+		<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
+		<a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" /></a>
+		<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" /></a>
+		<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+		<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+		<a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime&theme=dark" /></a>
+		<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a>
+		<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" /></a>
+	</div>
+	<h2>Socials</h2>
+	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+		<a href="https://discord.com/users/180430713873498113/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+		<a href="https://twitter.com/CheatBreakerX"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+		<a href="https://twitter.com/LixGotWiFi"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+	</div>
+</div>
