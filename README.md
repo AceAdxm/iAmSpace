@@ -46,7 +46,33 @@
 		<a href="https://youtube.com/@3x3p"><img width="48px" src="https://github.com/iAmSpace/iAmSpace/blob/main/assets/png/youtube.png?raw=true" /></a>
 		<a href="https://open.spotify.com/user/8thm"><img width="48px" src="https://github.com/iAmSpace/iAmSpace/blob/main/assets/png/spotify.png?raw=true" /></a>
 		<a href="https://discord.com/users/180430713873498113/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+		<a href="https://discord.com/users/422200068951769098/"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 		<a href="https://twitter.com/CheatBreakerX"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
 		<a href="https://twitter.com/LixGotWiFi"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+		<a href="https://namemc.com/profile/2x2p.1"><img width="48px" src="https://github.com/iAmSpace/iAmSpace/blob/main/assets/png/namemc.png?raw=true" /></a>
+		<a href="https://namemc.com/profile/1x1p.1"><img width="48px" src="https://github.com/iAmSpace/iAmSpace/blob/main/assets/png/namemc.png?raw=true" /></a>
+		<a href="https://namemc.com/profile/AstroxPapa.1"><img width="48px" src="https://github.com/iAmSpace/iAmSpace/blob/main/assets/png/namemc.png?raw=true" /></a>
 	</div>
+	<h2>Status</h2>
+	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
+		<a href="https://discord.com/users/180430713873498113">
+			<img src="https://lanyard.cnrad.dev/api/180430713873498113?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=doing+absolutely+nothing+(or+atleast+thats+what+you+think)" />
+		</a>
+		<img width="10px" height="1px" src="https://i.imgur.com/DkKayja.png">
+		<a href="https://discord.com/users/422200068951769098">
+			<img src="https://lanyard.cnrad.dev/api/422200068951769098?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=alting" />
+		</a>
+	</div>
+	<h2>Statistics</h2>
+	<div>
+		<!-- Left -->
+		<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamspace&theme=midnight-purple&layout=compact&hide_border=true&langs_count=14">
+		<!-- Right -->
+		<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=iamspace&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
+		<img width="48%" height="32px" align="right" src="https://i.imgur.com/DkKayja.png">
+		<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamspace&theme=midnight-purple&hide_border=true">
+		<img width="48%" height="32px" align="right" src="https://i.imgur.com/DkKayja.png">
+	</div>
+	<h1 width="100%">&#x200C;<img width="10px" height="1px" src="https://i.imgur.com/DkKayja.png">&#x200E;&#x200C;</h1>
+	<img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=iAmSpace&style=plastic&color=b3d5ff&label=Profile+views" alt="Profile views" />
 </div>
