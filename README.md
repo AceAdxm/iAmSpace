@@ -63,7 +63,7 @@
 			<img src="https://lanyard.cnrad.dev/api/422200068951769098?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=alting" />
 		</a>
 	</div>
-	<h2>Statistics <img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=iAmSpace&style=plastic&color=b3d5ff&label=Profile+views" alt="Profile views" /></h2>
+	<h2>Statistics <img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=iAmSpace&style=plastic&color=000000&label=Profile+views" alt="Profile views" /></h2>
 	<div>
 		<!-- Left -->
 		<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamspace&theme=midnight-purple&layout=compact&hide_border=true&langs_count=14">
