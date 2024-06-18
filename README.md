@@ -63,7 +63,7 @@
 			<img src="https://lanyard.cnrad.dev/api/422200068951769098?borderRadius=10px&animated=:true&bg=000000FF&idleMessage=alting" />
 		</a>
 	</div>
-	<h2>Statistics</h2>
+	<h2>Statistics <img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=iAmSpace&style=plastic&color=b3d5ff&label=Profile+views" alt="Profile views" /></h2>
 	<div>
 		<!-- Left -->
 		<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamspace&theme=midnight-purple&layout=compact&hide_border=true&langs_count=14">
@@ -73,6 +73,4 @@
 		<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamspace&theme=midnight-purple&hide_border=true">
 		<img width="45%" height="32px" align="right" src="https://i.imgur.com/DkKayja.png">
 	</div>
-	<h1 width="100%">&#x200C;<img width="10px" height="1px" src="https://i.imgur.com/DkKayja.png">&#x200E;&#x200C;</h1>
-	<img style="margin-top: 1em" src="https://komarev.com/ghpvc/?username=iAmSpace&style=plastic&color=b3d5ff&label=Profile+views" alt="Profile views" />
 </div>
