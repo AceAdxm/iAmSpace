@@ -27,6 +27,7 @@
 		<a href="https://en.wikipedia.org/wiki/Regular_expression"><img src="https://skillicons.dev/icons?i=regex&theme=dark" /></a>
 		<h3>Currently learning</h3>
 		<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://skillicons.dev/icons?i=rust&theme=dark" /></a>
+		<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://skillicons.dev/icons?i=go&theme=dark" /></a>
 	</div>
 	<h2>Tools</h2>
 	<div style="background-color: #282A3682; border-radius: 2em; padding: 1em; display: flex; justify-content: center; width: fit-content; box-shadow: 0px 3px 5px #00000010">
