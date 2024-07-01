@@ -38,7 +38,32 @@ For SnapEnhance, ensure you download the latest package correspondant to your de
 4. Shizuku will appear at the top of your screen, **expand** this notification, press *Enter pairing code*, and type out the number at the bottom of your screen. After you confirm it and then press *Start* in Shizuku, Shizuku should be ready to use, you can confirm this by looking at the top of the Shizuku app.
    ![Shizuku Ready](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_023741_Shizuku.jpg)
 
-## 4. Configure LSPatch
+## 4. Patch Snapchat
 1. Add LSPatch as an authorised app in Shizuku. You can do this by pressing *Tap to manage authorized apps*, then ticking *LSPatch*.
    ![Manage authorized](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_024615_Shizuku.jpg)
    ![Tick](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_024626_Shizuku.jpg)
+2. Open LSPatch
+3. Navigate to the *Manage* tab at the bottom
+4. Press the `+` icon in the bottom right, press *OK* when asked for a storage directory
+5. Create a new folder and press *Use this folder* at the bottom (mine is `SnapEnhanceLS`)
+   ![Folder](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_031909_My%20Files.jpg)
+6. You will be prompted for a new patch, press *Select an installed app*
+7. Find and select Snapchat
+8. For the patch mode, select *Integrated* then press *Embed modules*
+   ![Embed modules](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_030128_LSPatch.jpg)
+9. Press *Select installed module*, then find and select SnapEnhance
+10. Ensure *Override version code* is ticked (it isn't in the image)
+    ![Override version code](https://github.com/iAmSpace/iAmSpace/blob/main/assets/jpg/Screenshot_20240701_030139_LSPatch.jpg)
+11. Press *Start patch*
+12. After it has patched, an *Install* button will appear, press it - it will reinstall Snapchat in a patched state.
+13. Back in LSPatch, long press on Snapchat and press *Optimize*
+14. Open Snapchat, if the patch was successful you will be prompted to create or find a folder for SnapEnhance to store its media.
+
+## 5. Logging in
+When logging in, you most likely will see an error message stating:
+> Due to repeated failed attempts or other unusual activity, your access to Snapchat has been temporarily disabled. Learn more here.
+
+To fix this, simply restart the app 3-4 times (only log in when you have restarted it a few times)
+
+## Additional notes
+You should now, in the Snapchat app, see a cog in the top right of the main messages view - this is the SnapEnhance settings overlay. Due to it being an overlay, the first open will lead you to the permissions page for on screen overlays, where you'll have to enable SnapEnhance for it to work.
