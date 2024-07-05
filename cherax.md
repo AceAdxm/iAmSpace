@@ -1,5 +1,5 @@
 <h1 align="center">
-	Cherax Lua Doc
+	Cherax Lua Doc (but horrible)
 </h1>
 
 <details>
